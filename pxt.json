@@ -1,5 +1,5 @@
 {
-    "name": "Light Sensor",
+    "name": "nightlight",
     "description": "",
     "dependencies": {
         "core": "*",
